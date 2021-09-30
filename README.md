@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I'm Brazilian and Hungarian!
 
  <a href="https://github.com/nikolasbrp">
-  <img height="180em align="center" src="https://github-readme-stats.vercel.app/api?username=nikolasbrp&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em align="center" src="https://github-readme-stats.vercel.app/api?username=nikolasbrp&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   
 ### 🚀 Softwares and Tools: 
 <div style="display: inline_block">
