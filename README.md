@@ -9,9 +9,8 @@
 
  <div align="left">
   <a href="https://github.com/nikolasbrp">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasbrp&layout=compact&theme=react"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nikolasbrp&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <! img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasbrp&layout=compact&langs_count=7&theme=react"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikolasbrp&layout=compact&langs_count=7&theme=react"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=nikolasbrp&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>  
 </div>
   
 ### 🚀 Softwares and Tools: 
